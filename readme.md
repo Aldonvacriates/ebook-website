@@ -2,7 +2,7 @@
 
 This is a simple boilerplate for creating and customizing Bootstrap websites. Just run the `npm run sass:watch` command and customize Bootstrap by changing the variable values.
 
-This boilerplate is used in my [Bootstrap 5 From Scratch](https://traversymedia.com/bootstrap-from-scratch) c.
+This boilerplate is used in my [Bootstrap 5 From Scratch](https://traversymedia.com/bootstrap-from-scratch).
 
 ## Usage
 
